@@ -242,3 +242,12 @@ form button{
 
 }
 
+.container2 {
+    background-color: whitesmoke;
+    border-radius: 6px;
+    outline: none;
+    align-items: center;
+    font-size: 1;
+    font-weight: 8px;
+    
+}
